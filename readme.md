@@ -1,5 +1,5 @@
 ***loadstring***
 ```lua
-loadstring(game:HttpGet("", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wronggames/XDclient/main/Mainscript", true))()
 ```
 
